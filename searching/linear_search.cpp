@@ -24,11 +24,11 @@ void main()
 	}
 	if(c==0)
 	{
-		cout<<"Number not found..!!";
+		cout<<"NOT FOUND..!!";
 	}
 	else
 	{
-		cout<<num<<" found at position "<<pos;
+		cout<<num<<" FOUND "<<pos;
 	}
 	getch();
-  }
+}
